@@ -170,7 +170,7 @@
 | 22 | Handwritten Digit Recognition using Neural Network | Computer Vision | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Handwritten%20Digit%20Recognition%20using%20Neural%20Network) |
 | 23 | Identifying handwritten digits using Logistic Regression in PyTorch | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Identifying%20handwritten%20digits%20using%20Logistic%20Regression%20in%20PyTorch) |
 | 24 | Recognizing HandWritten Digits in Scikit Learn | Computer Vision | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Recognizing%20HandWritten%20Digits%20in%20Scikit%20Learn) |
-| 25 | OCR of Handwritten digits | OpenCV | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/OCR%20of%20Handwritten%20digits%20%7C%20OpenCV) |
+| 25 | OCR of Handwritten digits | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/OCR%20of%20Handwritten%20digits%20%7C%20OpenCV) |
 | 26 | Text Detection and Extraction using OpenCV and OCR | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Text%20Detection%20and%20Extraction%20using%20OpenCV%20and%20OCR) |
 
 ---
