@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Machine Learning Projects Hub
@@ -27,7 +26,7 @@
 
 ---
 
-*A comprehensive collection of **102 production-ready machine learning projects** spanning computer vision, NLP, time series, recommendation systems, and more. Each project includes complete source code, datasets, and implementation guides.*
+*A comprehensive collection of **102 production-ready machine learning projects** spanning computer vision, NLP, time series, recommendation systems, and more. Each project includes complete sourc...*
 
 </div>
 
@@ -147,12 +146,32 @@
 
 | # | Project Name | Category | Difficulty | Link |
 |---|-------------|----------|------------|------|
-| 1 | Credit Card Fraud Detection | Security | ⭐⭐ | [View](link) |
-| 2 | Face Mask Detection | Computer Vision | ⭐⭐ | [View](link) |
-| 3 | Sentiment Analysis with BERT | NLP | ⭐⭐⭐ | [View](link) |
-| 4 | Stock Price Prediction | Finance | ⭐⭐ | [View](link) |
-| 5 | COVID-19 Detection | Healthcare | ⭐⭐⭐ | [View](link) |
-| ... | ... | ... | ... | ... |
+| 1 | Bitcoin Price Prediction | Finance | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Bitcoin%20Price%20Prediction) |
+| 2 | bitcoin-price-prediction-main | Finance | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/bitcoin-price-prediction-main) |
+| 3 | Dogecoin Price Prediction | Finance | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Dogecoin%20Price%20Prediction) |
+| 4 | Stock Price Prediction | Finance | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Stock%20Price%20Prediction) |
+| 5 | Stock Price Prediction Project using TensorFlow | Finance | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Stock%20Price%20Prediction%20Project%20using%20TensorFlow) |
+| 6 | Share Price Forecasting Using Facebook Prophet | Finance | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Share%20Price%20Forecasting%20Using%20Facebook%20Prophet) |
+| 7 | Zillow Home Value (Zestimate) Prediction | Finance | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Zillow%20Home%20Value%20(Zestimate)%20Prediction) |
+| 8 | Sales Forecast Prediction | Business Analytics | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Sales%20Forecast%20Prediction) |
+| 9 | Customer Churn Analysis | Business Analytics | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Customer%20Churn%20Analysis) |
+| 10 | Credit Card Fraud Detection | Security | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Credit%20Card%20Fraud%20Detection) |
+| 11 | Online Payment Fraud Detection | Security | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Online%20Payment%20Fraud%20Detection) |
+| 12 | Detecting Spam Emails Using Tensorflow in Python | Security | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Detecting%20Spam%20Emails%20Using%20Tensorflow%20in%20Python) |
+| 13 | SMS Spam Detection using TensorFlow in Python | Security | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/SMS%20Spam%20Detection%20using%20TensorFlow%20in%20Python) |
+| 14 | Twitter Sentiment Analysis using Python | NLP | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Twitter%20Sentiment%20Analysis%20using%20Python) |
+| 15 | Facebook Sentiment Analysis using python | NLP | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Facebook%20Sentiment%20Analysis%20using%20python) |
+| 16 | Classification of Text Documents using Naive Bayes | NLP | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Classification%20of%20Text%20Documents%20using%20Naive%20Bayes) |
+| 17 | CIFAR-10 Image Classification | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/CIFAR-10%20Image%20Classification) |
+| 18 | Black and white image colorization | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Black%20and%20white%20image%20colorization) |
+| 19 | Image Cartooning using OpenCV | Computer Vision | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Cartooning%20an%20Image%20using%20OpenCV) |
+| 20 | Count number of Faces | Computer Vision | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Count%20number%20of%20Faces) |
+| 21 | Count number of Objects | Computer Vision | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Count%20number%20of%20Objects) |
+| 22 | Handwritten Digit Recognition using Neural Network | Computer Vision | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Handwritten%20Digit%20Recognition%20using%20Neural%20Network) |
+| 23 | Identifying handwritten digits using Logistic Regression in PyTorch | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Identifying%20handwritten%20digits%20using%20Logistic%20Regression%20in%20PyTorch) |
+| 24 | Recognizing HandWritten Digits in Scikit Learn | Computer Vision | ⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Recognizing%20HandWritten%20Digits%20in%20Scikit%20Learn) |
+| 25 | OCR of Handwritten digits | OpenCV | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/OCR%20of%20Handwritten%20digits%20%7C%20OpenCV) |
+| 26 | Text Detection and Extraction using OpenCV and OCR | Computer Vision | ⭐⭐⭐ | [View](https://github.com/Aetherion-dotcom/Machine-learning-projects-collection-100-plus-projects-with-source-code/tree/main/Text%20Detection%20and%20Extraction%20using%20OpenCV%20and%20OCR) |
 
 ---
 
@@ -162,6 +181,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Aetherion-dotcom)
 
-*If this helped you, consider giving it a ⭐!*
+*If this helped you, consider giving it a ⭐!* 
 
 </div>
